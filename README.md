@@ -2,9 +2,9 @@
 
 Welcome to Project: Lemonade app!
 
-## Description
-
 Project developed during the Android Basics in Kotlin course.
+
+## Description
 
 The goal was to create a simple, interactive mobile app that allows you to juice lemons until you have a glass of lemonade. 
 
