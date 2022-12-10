@@ -1,8 +1,8 @@
 # Lemonade
 
-## Description
-
 Welcome to Project: Lemonade app!
+
+## Description
 
 Project developed during the Android Basics in Kotlin course.
 
