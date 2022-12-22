@@ -1,6 +1,6 @@
 # Lemonade
 
-Welcome to Project: Lemonade app!
+Welcome to the project: Lemonade app!
 
 Project developed during the Android Basics in Kotlin course.
 
